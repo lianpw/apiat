@@ -1,0 +1,7 @@
+jsonpath
+lxml
+PyMySQL
+pytest
+requests
+pytest-html
+pytest-assume
